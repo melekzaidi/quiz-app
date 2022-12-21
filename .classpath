@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="src" path="Stringechange/src"/>
+	<classpathentry kind="lib" path="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/merged_java_res/debug/base.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/57d908a4886f14e11a27ab2623ef0ad474a28b86b4034bd5fc0cc6e3b95c7bd8_0.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/57d908a4886f14e11a27ab2623ef0ad474a28b86b4034bd5fc0cc6e3b95c7bd8_1.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/57d908a4886f14e11a27ab2623ef0ad474a28b86b4034bd5fc0cc6e3b95c7bd8_2.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/57d908a4886f14e11a27ab2623ef0ad474a28b86b4034bd5fc0cc6e3b95c7bd8_3.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/880bfb301f3b5b14f61eb9ef8fd3325077d6c1b629e42015cee8006637810396_0.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/880bfb301f3b5b14f61eb9ef8fd3325077d6c1b629e42015cee8006637810396_1.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/880bfb301f3b5b14f61eb9ef8fd3325077d6c1b629e42015cee8006637810396_2.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/880bfb301f3b5b14f61eb9ef8fd3325077d6c1b629e42015cee8006637810396_3.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/880bfb301f3b5b14f61eb9ef8fd3325077d6c1b629e42015cee8006637810396_4.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/880bfb301f3b5b14f61eb9ef8fd3325077d6c1b629e42015cee8006637810396_5.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="Stringechange/bin"/>
+</classpath>
